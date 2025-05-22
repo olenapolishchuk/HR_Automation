@@ -59,3 +59,10 @@ This project is ideal for freelance profiles and CVs where:
 - Excel & automation skills are crucial
 - Manual HR reporting is still dominant
 - Business-oriented KPIs need to be delivered efficiently
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
